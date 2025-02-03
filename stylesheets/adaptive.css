@@ -1,0 +1,70 @@
+@media screen and (min-width: 1921px) {
+  
+}
+
+@media screen and (min-width: 1441px) and (max-width: 1920px) {
+
+}
+
+@media screen and (min-width: 769px) and (max-width: 1440px) {
+
+}
+
+
+@media screen and (min-width: 415px) and (max-width: 768px) {
+   
+}
+
+@media screen and (max-width: 414px) {
+
+}
+
+
+/* /////////////////////////////////////////////////////////////////////////////////////// */
+
+/* Большие экраны */
+@media screen and (min-width: 1921px) and (orientation: landscape) {
+    /* Горизонтальная ориентация */
+}
+
+@media screen and (min-width: 1921px) and (orientation: portrait) {
+    /* Вертикальная ориентация */
+}
+
+/* От 1441px до 1920px */
+@media screen and (min-width: 1441px) and (max-width: 1920px) and (orientation: landscape) {
+    /* Горизонтальная ориентация */
+}
+
+@media screen and (min-width: 1441px) and (max-width: 1920px) and (orientation: portrait) {
+    /* Вертикальная ориентация */
+}
+
+/* От 769px до 1440px */
+@media screen and (min-width: 769px) and (max-width: 1440px) and (orientation: landscape) {
+    /* Горизонтальная ориентация */
+}
+
+@media screen and (min-width: 769px) and (max-width: 1440px) and (orientation: portrait) {
+    /* Вертикальная ориентация */
+}
+
+
+/* От 415px до 768px */
+@media screen and (min-width: 415px) and (max-width: 768px) and (orientation: landscape) {
+    /* Горизонтальная ориентация */
+}
+
+@media screen and (min-width: 415px) and (max-width: 768px) and (orientation: portrait) {
+    /* Вертикальная ориентация */
+}
+
+/* Максимум 414px */
+@media screen and (max-width: 414px) and (orientation: landscape) {
+    /* Горизонтальная ориентация */
+}
+
+@media screen and (max-width: 414px) and (orientation: portrait) {
+    /* Вертикальная ориентация */
+}
+

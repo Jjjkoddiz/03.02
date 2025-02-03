@@ -1,0 +1,21 @@
+.divmoy {
+  width: 6vw;
+  height: 6vw;
+  border-radius: 10px;
+  background: burlywood;
+  position: absolute;
+}
+
+img {
+  width: 100%;
+}
+
+.ellipse,
+.rectangle7,
+.rectangle8,
+.circlegroup,
+.polygon1 {
+  width: 6vw;
+  height: 6vw;
+  position: absolute;
+}
